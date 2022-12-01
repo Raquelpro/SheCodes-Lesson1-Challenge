@@ -1,3 +1,27 @@
 p {
     margin: auto;
 }
+
+body {
+    text-align: center;
+}
+
+h2 {
+    color: #8064e9;
+}
+
+.join-now-button {
+    display: block;
+    margin: 30px auto;
+    padding: 10px 20px;
+    background: #8064e9;
+    color: white;
+    border-radius: 30px;
+    box-shadow: 10px 5px 5px rgb(219, 219, 219);
+}
+
+.join-now-button:hover {
+    background: white;
+    color: #8064e9;
+    cursor: pointer;
+}
