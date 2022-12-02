@@ -10,7 +10,7 @@ h2 {
     color: #8064e9;
 }
 
-.join-now-button {
+button {
     display: block;
     margin: 30px auto;
     padding: 10px 20px;
